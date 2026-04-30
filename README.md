@@ -7,7 +7,7 @@ I'm Hamidreza. A developer based in Iran, focused on building practical solution
 Current areas of interest include web development, machine learning, Python, backend systems, and Linux. The goal is to create reliable tools and applications that serve real purposes — without unnecessary complexity.
 
 - 🌱 I’m currently learning **ReactJS Frontend Framework**
-- ⚡ Fun fact: No social media. Just code.
+- ⚡ Fun fact: No ig and twitter. Just code.
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +22,6 @@ Current areas of interest include web development, machine learning, Python, bac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezaesh&layout=compact&theme=tokyonight)
 
-## 📬 Contact
+## 🌐 Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ham1drezaesh)
