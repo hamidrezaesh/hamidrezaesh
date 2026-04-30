@@ -18,6 +18,10 @@ Current areas of interest include web development, machine learning, Python, bac
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
+## 📈 Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezaesh&layout=compact&theme=tokyonight)
+
 ## 📬 Contact
 
 - 📢 Telegram: [ham1drezaesh](https://t.me/ham1drezaesh)
