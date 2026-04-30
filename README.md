@@ -24,4 +24,4 @@ Current areas of interest include web development, machine learning, Python, bac
 
 ## 📬 Contact
 
-- 📢 Telegram: [ham1drezaesh](https://t.me/ham1drezaesh)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ham1drezaesh)
