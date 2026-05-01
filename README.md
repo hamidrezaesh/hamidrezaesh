@@ -8,6 +8,7 @@ Current areas of interest include web development, machine learning, Python, bac
 
 - 🌱 I’m currently learning **ReactJS Frontend Framework**
 - ⚡ Fun fact: No ig and twitter. Just code.
+- 📝 I regularly write technical articles in Persian on [Virgool](https://virgool.io/@hamidrezaesh)
 
 ## 🛠️ Tech Stack
 
