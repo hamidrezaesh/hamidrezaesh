@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Hamidreza
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=300&section=header&text=Hamidreza&desc=Machine%20Learning%20%7C%20Full%20Stack%20Developer&fontSize=70&animation=fadeIn&fontColor=fff&descSize=30&fontAlignY=38&descAlignY=55" alt="Header" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35=&duration=3000&pause=800&color=2CA5E0&center=true&vCenter=true&width=500&height=70&lines=Machine+Learning;Full+Stack;Python;JavaScript;TypeScript" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
