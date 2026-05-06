@@ -25,8 +25,7 @@ Current areas of interest include web development, machine learning, Python, bac
 
 ## 📈 Github Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezaesh&layout=compact&theme=tokyonight) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezaesh&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezaesh)](https://github.com/hamidreza/hamidrezaesh)
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=hamidrezaesh&theme=midnight)
 
 ## 🌐 Socials
