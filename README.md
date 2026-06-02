@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=300&section=header&text=Hamidreza&desc=Machine%20Learning%20%7C%20Full-Stack%20Developer&fontSize=70&animation=fadeIn&fontColor=fff&descSize=30&fontAlignY=38&descAlignY=55" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20,24,25&height=300&section=header&text=Hamidreza&desc=Machine%20Learning%20%7C%20Full-Stack%20Developer&fontSize=70&animation=fadeIn&fontColor=fff&descSize=30&fontAlignY=38&descAlignY=55" alt="Header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35=&duration=3000&pause=800&color=2CA5E0&center=true&vCenter=true&width=500&height=70&lines=Machine+Learning;Full-Stack+Developer;Python;JavaScript;TypeScript;HTML/CSS;C" alt="Typing SVG" />
