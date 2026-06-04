@@ -37,7 +37,3 @@ Current areas of interest include web development, machine learning, Python, bac
 ![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamidrezaesh&theme=github_dark)  
 ![static](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamidrezaesh&theme=github_dark)  
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=hamidrezaesh&theme=cyber-city)
-
-## 🌐 Socials
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ham1drezaesh)
