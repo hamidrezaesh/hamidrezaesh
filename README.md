@@ -11,6 +11,7 @@ I'm Hamidreza. A developer based in Iran, focused on building practical solution
 Current areas of interest include web development, machine learning, Python, backend systems, and Linux. The goal is to create reliable tools and applications that serve real purposes — without unnecessary complexity.
 
 - ⚡ Fun fact: No ig and twitter. Just code.
+- 💻 I'm currently learning Go.
 
 ## 🛠️ Tech Stack
 
