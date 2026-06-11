@@ -32,4 +32,5 @@ Current areas of interest include web development, machine learning, Python, bac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 Github Stats
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=hamidrezaesh&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+![hamidrezaesh's Stats](https://github-readme-stats.vercel.app/api?username=hamidrezaesh&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![hamidrezaesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamidrezaesh&theme=tokyonight&hide_border=true)
