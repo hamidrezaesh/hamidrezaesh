@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20,24,25&height=300&section=header&text=Hamidreza&desc=Machine%20Learning%20%7C%20Full-Stack%20Developer&fontSize=70&animation=fadeIn&fontColor=fff&descSize=30&fontAlignY=38&descAlignY=55" alt="Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35=&duration=3000&pause=800&color=2CA5E0&center=true&vCenter=true&width=500&height=70&lines=Machine+Learning;Full-Stack+Developer;Python;JavaScript;TypeScript;HTML/CSS;C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35=&duration=3000&pause=800&color=2CA5E0&center=true&vCenter=true&width=500&height=70&lines=Machine+Learning;Full-Stack+Developer;Python;JavaScript/TypeScript;Golang;C" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -19,6 +19,7 @@ Current areas of interest include web development, machine learning, Python, bac
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
