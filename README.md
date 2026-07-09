@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20,24,25&height=300&section=header&text=Hamidreza&desc=Machine%20Learning%20%7C%20Full-Stack%20Developer&fontSize=70&animation=fadeIn&fontColor=fff&descSize=30&fontAlignY=38&descAlignY=55" alt="Header" />
-
 ## 🚀 About Me
 
 I'm Hamidreza. A developer based in Iran, focused on building practical solutions through code. The work centers on clean implementation, problem-solving, and continuous learning.
