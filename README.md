@@ -9,9 +9,6 @@
 I'm Hamidreza. A developer based in Iran, focused on building practical solutions through code. The work centers on clean implementation, problem-solving, and continuous learning.  
 Current areas of interest include web development, machine learning, Python, backend systems, and Linux. The goal is to create reliable tools and applications that serve real purposes — without unnecessary complexity.
 
-- 🔭 I'm currently working on **Download Manager**
-- 🌍 Active contributor to open-source projects
-
 ### 🛠️ Tech Stack
 
 <p align="left">
