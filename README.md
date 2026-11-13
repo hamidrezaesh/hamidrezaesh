@@ -8,7 +8,8 @@
 I'm Hamidreza. A developer based in Iran, I focused on building solutions for daily problems. I'm interested in Backend, ML, Network and Linux. 
 
 🔭 &nbsp;I'm currently working on **[ffd](https://github.com/hamidrezaesh/ffd)**  
-✍️ &nbsp;I share my thoughts, projects, and things I learn on [Dev.to](https://dev.to/hamidrezaesh).
+✍️ &nbsp;I share my thoughts, projects, and things I learn on [Dev.to](https://dev.to/hamidrezaesh).  
+📝 &nbsp;I'm working on my [Network engineering series](https://dev.to/hamidrezaesh/series/46555) now.
 
 ### 🛠️ Tech Stack
 
